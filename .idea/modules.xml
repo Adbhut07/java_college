@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/College Assignment/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/College Assignment/Assignment3/Assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Basics/Java-Basics.iml" filepath="$PROJECT_DIR$/Java-Basics/Java-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment 6/assignment 6.iml" filepath="$PROJECT_DIR$/assignment 6/assignment 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/College Assignment/assignment2/assignment2.iml" filepath="$PROJECT_DIR$/College Assignment/assignment2/assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment_03b/assignment_03b.iml" filepath="$PROJECT_DIR$/assignment_03b/assignment_03b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment_04a/assignment_04a.iml" filepath="$PROJECT_DIR$/assignment_04a/assignment_04a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jfugue_assignment/jfugue_assignment.iml" filepath="$PROJECT_DIR$/jfugue_assignment/jfugue_assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_2/lab_2.iml" filepath="$PROJECT_DIR$/lab_2/lab_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/College Assignment/pen game/pen game.iml" filepath="$PROJECT_DIR$/College Assignment/pen game/pen game.iml" />
+    </modules>
+  </component>
+</project>
